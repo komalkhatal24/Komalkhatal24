@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Komal G. Khatal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align = "right" alt="cod" width="400" height="200"style="mix-blend-mode: multiply; margin-left: 10" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s"
+<img align = "right" alt="cod" width="400" height="200"style="mix-blend-mode: multiply; margin-left: 10" src="https://camo.githubusercontent.com/55bf1c5bb8719075846b61ce1df1cf69528f02d1c23d6a32728a41f1479710c3/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565"
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komalkhatal24&label=Profile%20views&color=0e75b6&style=flat" alt="komalkhatal24" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, MongoDB,C++**

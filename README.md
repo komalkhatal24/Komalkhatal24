@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Komal G. Khatal</h1>
+<h1 align="center">Hi 👋, I'm Komal G. Khatal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align = "right" alt="cod" width="400" height="200"style="mix-blend-mode: multiply; margin-left: 10" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s"
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komalkhatal24&label=Profile%20views&color=0e75b6&style=flat" alt="komalkhatal24" /> </p>

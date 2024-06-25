@@ -6,7 +6,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komalkhatal24&label=Profile%20views&color=0e75b6&style=flat" alt="komalkhatal24" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, MongoDB,C++**
+- 🌱 I’m currently learning **ReactJs, MongoDB, C++**
 
 - 💬 Ask me about **Web-App Development,Coding**
 

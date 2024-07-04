@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align = "right" alt="cod" width="400"  height="290"style="mix-blend-mode: multiply; margin-left: 10 " src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komalkhatal24&label=Profile%20views&color=0e75b6&style=flat" alt="komalkhatal24" /> </p>
 
 - 🌱 I’m currently learning **ReactJs, MongoDB, C++**

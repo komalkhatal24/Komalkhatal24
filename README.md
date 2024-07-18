@@ -3,9 +3,9 @@
 <img align = "right" alt="cod" width="400"  height="290"style="mix-blend-mode: multiply; margin-left: 10 " src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=komalkhatal24&label=Profile%20views&color=0e75b6&style=flat" alt="komalkhatal24" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, MongoDB, C++**
+- 🌱 I’m currently learning **AngularJs, MongoDB, DSA**
 
-- 💬 Ask me about **Web-App Development,Coding**
+- 💬 Ask me about **Web-App Development, Coding, ReacjJS**
 
 - 📫 How to reach me **komalkhatal24@gmail.com**
 
